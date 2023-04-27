@@ -1,0 +1,96 @@
+Added Component: Designator=B1(BEEP 7.6X12X9.5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(LED3-RED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(DC²åÍ·)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(STM32C8t6DIP·â×°1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(UART)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(ESP8266)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(OLED_0.96)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J*1(MAX30102)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(SOT-23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0603R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(KFT DIP-7X7)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=B1-1
+Added Pin To Net: NetName=+5 Pin=J2-18
+Added Pin To Net: NetName=+5 Pin=J3-1
+Added Pin To Net: NetName=+5 Pin=J5-2
+Added Pin To Net: NetName=+5 Pin=S1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=BEEP Pin=J2-30
+Added Pin To Net: NetName=BEEP Pin=R2-2
+Added Net: Name=BEEP
+Added Pin To Net: NetName=ESP8266_RX Pin=J2-26
+Added Pin To Net: NetName=ESP8266_RX Pin=J4-8
+Added Net: Name=ESP8266_RX
+Added Pin To Net: NetName=ESP8266_TX Pin=J2-25
+Added Pin To Net: NetName=ESP8266_TX Pin=J4-1
+Added Net: Name=ESP8266_TX
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J2-21
+Added Pin To Net: NetName=GND Pin=J2-22
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J*1-1
+Added Pin To Net: NetName=GND Pin=J*1-8
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_RED Pin=D1-K
+Added Pin To Net: NetName=LED_RED Pin=J2-31
+Added Net: Name=LED_RED
+Added Pin To Net: NetName=MAX_30102_INT Pin=J2-16
+Added Pin To Net: NetName=MAX_30102_INT Pin=J*1-5
+Added Net: Name=MAX_30102_INT
+Added Pin To Net: NetName=MAX_30102_SCl Pin=J2-14
+Added Pin To Net: NetName=MAX_30102_SCl Pin=J*1-2
+Added Net: Name=MAX_30102_SCl
+Added Pin To Net: NetName=MAX_30102_SDA Pin=J2-15
+Added Pin To Net: NetName=MAX_30102_SDA Pin=J*1-3
+Added Net: Name=MAX_30102_SDA
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q1-C
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetQ1_B Pin=Q1-B
+Added Pin To Net: NetName=NetQ1_B Pin=R2-1
+Added Net: Name=NetQ1_B
+Added Pin To Net: NetName=NetQ1_E Pin=Q1-E
+Added Pin To Net: NetName=NetQ1_E Pin=R3-2
+Added Net: Name=NetQ1_E
+Added Pin To Net: NetName=OLED_SCl Pin=J2-27
+Added Pin To Net: NetName=OLED_SCl Pin=J5-3
+Added Net: Name=OLED_SCl
+Added Pin To Net: NetName=OLED_SDA Pin=J2-28
+Added Pin To Net: NetName=OLED_SDA Pin=J5-4
+Added Net: Name=OLED_SDA
+Added Pin To Net: NetName=UART_RX Pin=J2-6
+Added Pin To Net: NetName=UART_RX Pin=J3-3
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=J2-7
+Added Pin To Net: NetName=UART_TX Pin=J3-2
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=V3.3 Pin=J2-23
+Added Pin To Net: NetName=V3.3 Pin=J4-7
+Added Pin To Net: NetName=V3.3 Pin=J*1-4
+Added Pin To Net: NetName=V3.3 Pin=R1-1
+Added Net: Name=V3.3
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=S1-2
+Added Net: Name=VCC

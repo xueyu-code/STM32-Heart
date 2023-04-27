@@ -1,0 +1,6 @@
+Added Component: Designator=J3(HC_05)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=UART_RX Pin=J3-2
+Added Pin To Net: NetName=UART_TX Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=+5 Pin=J3-5

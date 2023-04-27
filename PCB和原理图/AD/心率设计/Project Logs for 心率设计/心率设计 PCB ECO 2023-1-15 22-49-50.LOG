@@ -1,0 +1,13 @@
+Added Component: Designator=J6(Fe-HDR1X5/2.54-S)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V3.3 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=DS1302_CE Pin=J2-10
+Added Pin To Net: NetName=DS1302_CE Pin=J6-5
+Added Net: Name=DS1302_CE
+Added Pin To Net: NetName=DS1302_IO Pin=J2-9
+Added Pin To Net: NetName=DS1302_IO Pin=J6-4
+Added Net: Name=DS1302_IO
+Added Pin To Net: NetName=DS1302_SCK Pin=J2-8
+Added Pin To Net: NetName=DS1302_SCK Pin=J6-3
+Added Net: Name=DS1302_SCK
